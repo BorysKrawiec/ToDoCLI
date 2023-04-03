@@ -1,4 +1,3 @@
-Programowanie
-Zmiana pracy
-Granie w Rpgi
-Nauczyc sie czatu GPT
+task 1
+task 2
+task 3
